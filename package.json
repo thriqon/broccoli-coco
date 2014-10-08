@@ -1,0 +1,25 @@
+{
+  "name": "broccoli-coco",
+  "version": "0.1.0",
+  "description": "Broccoli filter for Coco",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thriqon/broccoli-coco.git"
+  },
+  "keywords": [
+    "broccoli-plugin",
+    "coco",
+    "javascript"
+  ],
+  "author": "Jonas Weber <mail@jonasw.de> (http://jonasw.de/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thriqon/broccoli-coco/issues"
+  },
+  "homepage": "https://github.com/thriqon/broccoli-coco",
+  "dependencies": {
+    "broccoli-filter": "^0.1.7",
+    "coco": "^0.9.1"
+  }
+}
